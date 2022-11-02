@@ -1,0 +1,15 @@
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\bin\Debug\net6.0\CSharp1929.exe
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\bin\Debug\net6.0\CSharp1929.deps.json
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\bin\Debug\net6.0\CSharp1929.runtimeconfig.json
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\bin\Debug\net6.0\CSharp1929.dll
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\bin\Debug\net6.0\CSharp1929.pdb
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\obj\Debug\net6.0\CSharp1929.csproj.AssemblyReference.cache
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\obj\Debug\net6.0\CSharp1929.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\obj\Debug\net6.0\CSharp1929.AssemblyInfoInputs.cache
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\obj\Debug\net6.0\CSharp1929.AssemblyInfo.cs
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\obj\Debug\net6.0\CSharp1929.csproj.CoreCompileInputs.cache
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\obj\Debug\net6.0\CSharp1929.dll
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\obj\Debug\net6.0\refint\CSharp1929.dll
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\obj\Debug\net6.0\CSharp1929.pdb
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\obj\Debug\net6.0\CSharp1929.genruntimeconfig.cache
+D:\1Programming\LeetCode\1929_Concatenation Of Array\CSharp1929\CSharp1929\obj\Debug\net6.0\ref\CSharp1929.dll
